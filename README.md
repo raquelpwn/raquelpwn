@@ -23,11 +23,14 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   </div>
 </div>
 
-<div align="left">
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pam-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python logo"/>
-  <img width="8" />
-</div>
+#
+
+## Tecnologias que estou estudando
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git logo" width="40" heigth="40"/>
+</p>
 
 #
 
