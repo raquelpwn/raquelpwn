@@ -3,16 +3,14 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&pause=1000&color=7C6FEE&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
-
-  <br>
-  <img src="./src/header-gif.gif" alt="Header GIF" width="520" style="border-radius: 10px; margin-top: 10px;"/>
-
-  <br>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGt2NjJlazd0aGQxeXo4bWE4Zm52aDUzcjdtanMwdWU2am13YmhnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kw82rfv0u3QHoTkJGm/giphy.gif" 
-       alt="Animated Banner" width="520" style="border-radius: 10px; margin-top: 5px;"/>
 </div>
 
 #
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&pause=1000&color=7C6FEE&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+About+me!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
 
 <p align="center">Estudante de Ciência da Computação. Atualmente me aprimorando em cursos de T.I e estudando Python paralelamente.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
