@@ -1,10 +1,16 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=5A4FCF"/>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&pause=1000&color=7C6FEE&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
-</div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
+  <br>
+  <img src="./src/header-gif.gif" alt="Header GIF" width="520" style="border-radius: 10px; margin-top: 10px;"/>
+
+  <br>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGt2NjJlazd0aGQxeXo4bWE4Zm52aDUzcjdtanMwdWU2am13YmhnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kw82rfv0u3QHoTkJGm/giphy.gif" 
+       alt="Animated Banner" width="520" style="border-radius: 10px; margin-top: 5px;"/>
+</div>
 
 #
 
@@ -13,32 +19,60 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 #
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <a href="https://github.com/raquelpwn">
-      <img src="https://github-readme-stats.vercel.app/api?username=raquelpwn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="400"/>
-    </a>
-    <a href="https://github.com/raquelpwn">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelpwn&layout=compact&langs_count=16&theme=dracula" width="400"/>
-    </a>
-  </div>
+<br>
+<br>
+<div align="center">
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raquelpwn&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raquelpwn&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raquelpwn&theme=tokyonight&utcOffset=8) |
+| :-: | :-: | :-: |
+
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raquelpwn&theme=tokyonight) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raquelpwn&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) |
+| :-: | :-: |
+
 </div>
 
+
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+</div>  
+
+<br>
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
+
+##
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br><br> 
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=%2382A4F8)](mailto:pamellaraquel52@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=%2382A4F8)](https://www.linkedin.com/in/pamella-raquel-69799431a)
+</div>
+
+</details>
+
+<br>
+
 #
 
-## Tecnologias que estou estudando
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python logo" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git logo" width="40" heigth="40"/>
-</p>
-
-#
-
-<h3 align="left">Connect with me!</h3>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/pamella-raquel-69799431a/)
-
-#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raquelpwn/raquelpwn/output/github-contribution-grid-snake-dark.svg">
@@ -46,7 +80,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raquelpwn/raquelpwn/output/github-contribution-grid-snake.svg">
 </picture>
 
-#
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=5A4FCF&section=footer"/>
+
+
+
 
 
 
